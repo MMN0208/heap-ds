@@ -1,2 +1,6 @@
 # heap-ds
-Heap data structure using array.
+Heap Data Structure
+
+Heap implementation using array.
+
+
